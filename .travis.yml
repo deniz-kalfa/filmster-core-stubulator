@@ -4,4 +4,4 @@ deploy:
   api_key:
     secure: R0ZDglJ0XlMk9skwPqDmnBhTDHHxvH15qJ5d/K3u/stte7DPSs+ZBKaxXoJrFb8yXMD4AXhmMAS5XpvVw8P9y9rbJ2Jg/6VLdVqTCnlwMgwbFCa28s9YKXjJiGCjb2XDVDUvBfDqAjLxBxogPZd/E2hoNnMeWJcSnpTuHsFW9xg=
   app:
-    develop: filmster-core-func01
+    develop: filmster-core-stub01
