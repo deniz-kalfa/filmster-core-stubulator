@@ -6,6 +6,9 @@ run-app:
 test-app:
 	echo 'No test to run for this project'
 
+test-app-ci:
+	echo 'No test to run for this project'
+
 setup-app:
 	echo 'No configuration to setup for this project'
 	git remote add stubulator01 git@heroku.com:filmster-core-stub01.git
