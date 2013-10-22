@@ -4,7 +4,7 @@ run-app:
 	play -Dhttp.port=8001 run
 
 test-app:
-	play test
+	echo 'No test to run for this project'
 
 setup-app:
 	echo 'No configuration to setup for this project'
